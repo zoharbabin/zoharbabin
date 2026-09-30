@@ -10,7 +10,7 @@ I build open-source agentic AI, research and personal fintech tools. I also advi
 |---|---|
 | [Web Researcher MCP](https://github.com/zoharbabin/web-researcher-mcp) | Go MCP server for web search, extraction and deep research. Every result is cited to the real source. Python bindings included. |
 | [Due Diligence Agents](https://github.com/zoharbabin/due-diligence-agents) | 13 AI agents for forensic M&A due diligence. Every finding traces to an exact page and quote. |
-| [Enterprise AI Agents Spec](https://github.com/zoharbabin/enterprise-ai-agents-spec) | Open blueprint for swarms of specialised AI agents in enterprise products: parallelisation, governance and compliance. |
+| [Enterprise AI Agents Spec](https://github.com/zoharbabin/enterprise-ai-agents-spec) | Open blueprint for swarms of specialized AI agents in enterprise products: parallelization, governance and compliance. |
 | [WebRTC Inspector](https://github.com/zoharbabin/webrtc-inspector) | Debug and fault-test any WebRTC session. Chrome extension, MCP server, npm library and Playwright plugin. |
 
 ## Writing
